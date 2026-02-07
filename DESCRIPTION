@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Amna",
            family = "Aleem",
            role = c("aut", "cre"),
-           email = "aaleem476@gmail.com",
+           email = "Aaleem476@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This is my new package to do addition, subtraction, and multiplication
 License: Artistic 2.0
